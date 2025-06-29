@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Flo
-- 👀 I’m interested in whatever piques my interests
-- 🌱 I’m currently learning rust and working mostly with go & distributed systems
+- 🌱 I’m currently working mostly with go, typescript and distributed systems
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 florinutz at gmail
